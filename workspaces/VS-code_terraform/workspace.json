@@ -1,6 +1,6 @@
 {
   "friendly_name": "vs-code+terraform & cloud CLI",
-  "image_src": "microsoft_visual_studio_code_macos_bigsur_icon_189957.png",
+  "image_src": "VS-code_terraform.png",
   "description": "Visual studio code + Terraform and CLI tools for AWS, GCP, Azure",
   "name": "tinkermesomething/kasm-vs_code-terraform",
   "cores": 2,
