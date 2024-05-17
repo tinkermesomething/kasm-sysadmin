@@ -2,7 +2,7 @@
 	"friendly_name": "vs-code+terraform & cloud CLI",
 	"image_src": "VS-code_terraform.png",
 	"description": "Visual studio code + Terraform and CLI tools for AWS, GCP, Azure",
-	"name": "tinkermesomething/kasm-vs_code-terraform",
+	"name": "tinkermesomething/kasm-vs_code-terraform:v1",
 	"cores": 2,
 	"memory": 2768,
 	"gpu_count": 0,
