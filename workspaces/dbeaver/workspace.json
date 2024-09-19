@@ -2,7 +2,7 @@
 	"friendly_name": "dbeaver",
 	"image_src": "dbeaver.png",
 	"description": "Dbeaver dekstop",
-	"name": "tinkermesomething/kasm-dbeaver:v1",
+	"name": "tinkermesomething/kasm-dbeaver:v2",
 	"cores": 2,
 	"memory": 2768,
 	"gpu_count": 0,
