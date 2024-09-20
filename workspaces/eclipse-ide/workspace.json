@@ -2,7 +2,7 @@
 	"friendly_name": "eclipse-ide",
 	"image_src": "eclipse.png",
 	"description": "Dbeaver dekstop",
-	"name": "tinkermesomething/kasm-eclipse:v1",
+	"name": "tinkermesomething/kasm-eclipse-ide:v1",
 	"cores": 2,
 	"memory": 2768,
 	"gpu_count": 0,
